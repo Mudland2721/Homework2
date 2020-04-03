@@ -1,0 +1,29 @@
+.card {
+  margin: auto;
+}
+
+.card-text {
+  margin: auto;
+  font-style: inherit;
+}
+
+.card-body {
+  border-color: gray;
+  border-style: solid;
+}
+.bmw-img {
+  width: 285px;
+}
+
+body {
+  color: dimgray;
+}
+header {
+  background: dimgray;
+  color: white;
+}
+.contact-card {
+}
+.card-header {
+  font-size: 20 px;
+}
